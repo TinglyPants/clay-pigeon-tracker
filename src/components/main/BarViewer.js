@@ -19,6 +19,9 @@ export default function BarViewer({ title, matty, lawrie }) {
                     style={{ data: { fill: "#172554" } }}
                     barRatio={0.8}
                     labels={({ datum }) => `${datum.total}`}
+                    animate={{
+                        duration: 1000,
+                    }}
                 />
             </VictoryChart>
         </div>

@@ -16,7 +16,13 @@ export default function LineViewer({ title, dataList }) {
                         tickFormat={dataList.map((datum) => datum._id)}
                     />
                     <VictoryAxis dependentAxis />
-                    <VictoryLine data={dataList} interpolation="natural" />
+                    <VictoryLine
+                        data={dataList}
+                        interpolation="natural"
+                        animate={{
+                            duration: 1000,
+                        }}
+                    />
                 </VictoryChart>
             </div>
         </div>
