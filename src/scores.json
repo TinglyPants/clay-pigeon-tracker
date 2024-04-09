@@ -1,0 +1,70 @@
+{
+    "scores": [
+        {
+            "date": "5/3/23",
+            "totalClays": 80,
+            "mattyHit": 31,
+            "lawrieHit": 37
+        },
+        {
+            "date": "2/4/23",
+            "totalClays": 100,
+            "mattyHit": 53,
+            "lawrieHit": 48
+        },
+        {
+            "date": "23/9/23",
+            "totalClays": 80,
+            "mattyHit": 55,
+            "lawrieHit": 47
+        },
+        {
+            "date": "15/10/23",
+            "totalClays": 80,
+            "mattyHit": 42,
+            "lawrieHit": 34
+        },
+        {
+            "date": "11/11/23",
+            "totalClays": 88,
+            "mattyHit": 56,
+            "lawrieHit": 51
+        },
+        {
+            "date": "25/11/23",
+            "totalClays": 80,
+            "mattyHit": 52,
+            "lawrieHit": 50
+        },
+        {
+            "date": "9/12/23",
+            "totalClays": 80,
+            "mattyHit": 51,
+            "lawrieHit": 47
+        },
+        {
+            "date": "16/12/23",
+            "totalClays": 80,
+            "mattyHit": 39,
+            "lawrieHit": 45
+        },
+        {
+            "date": "17/2/24",
+            "totalClays": 80,
+            "mattyHit": 41,
+            "lawrieHit": 38
+        },
+        {
+            "date": "16/3/24",
+            "totalClays": 80,
+            "mattyHit": 57,
+            "lawrieHit": 54
+        },
+        {
+            "date": "6/4/24",
+            "totalClays": 80,
+            "mattyHit": 34,
+            "lawrieHit": 48
+        }
+    ]
+}
